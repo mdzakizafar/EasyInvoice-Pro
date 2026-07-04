@@ -1,4 +1,4 @@
-# EasyInvoice Pro – Smart Billing & Management System
+# Billing Management System – Smart Billing & Management System
 
 ## 📌 Overview
 EasyInvoice Pro is a Java-based desktop billing solution designed to simplify day-to-day invoicing tasks. It enables users to manage products, calculate totals with discounts and tax, and generate print-ready invoices through a clean and user-friendly Swing interface.
